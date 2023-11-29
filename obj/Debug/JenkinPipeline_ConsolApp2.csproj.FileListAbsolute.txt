@@ -1,0 +1,8 @@
+C:\Users\Shri Swami Samarth\source\repos\JenkinPipeline_ConsolApp2\bin\Debug\JenkinPipeline_ConsolApp2.exe.config
+C:\Users\Shri Swami Samarth\source\repos\JenkinPipeline_ConsolApp2\bin\Debug\JenkinPipeline_ConsolApp2.exe
+C:\Users\Shri Swami Samarth\source\repos\JenkinPipeline_ConsolApp2\bin\Debug\JenkinPipeline_ConsolApp2.pdb
+C:\Users\Shri Swami Samarth\source\repos\JenkinPipeline_ConsolApp2\obj\Debug\JenkinPipeline_ConsolApp2.csproj.AssemblyReference.cache
+C:\Users\Shri Swami Samarth\source\repos\JenkinPipeline_ConsolApp2\obj\Debug\JenkinPipeline_ConsolApp2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Shri Swami Samarth\source\repos\JenkinPipeline_ConsolApp2\obj\Debug\JenkinPipeline_ConsolApp2.csproj.CoreCompileInputs.cache
+C:\Users\Shri Swami Samarth\source\repos\JenkinPipeline_ConsolApp2\obj\Debug\JenkinPipeline_ConsolApp2.exe
+C:\Users\Shri Swami Samarth\source\repos\JenkinPipeline_ConsolApp2\obj\Debug\JenkinPipeline_ConsolApp2.pdb
